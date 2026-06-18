@@ -25,7 +25,7 @@ I'm passionate about creating fast, accessible, and beautiful web applications t
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
+![Python](https://img.shields.io/pypi/pyversions/:packageName)
 
 ---
 
